@@ -86,3 +86,5 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 # qr-code-component1
+# qr-code-component-
+# qr-code-component-
